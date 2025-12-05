@@ -16,4 +16,4 @@ Design and implementation of an automated planning system for an autonomous robo
 * **Planning:** PDDL, PDDL4J, IDA* Algorithm
 
 ---
-*For full details, please refer to the [Project Report PDF](./docs/Robotics_Report.pdf).*
+*For full details, please refer to the [Project Report PDF](docs/Relazione_Progetto_AI.pdf).*
